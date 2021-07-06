@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SA_Assignment</string>
+    <string name="problem">problem</string>
+    <string name="solution">solution</string>
+    <string name="short_intro">It is an App that allows you to keep track of the products you have bought together with the items that have a warranty expiry date. Using
+        this App you can easily modify the products list such as adding more products, updating a product and its expiry, or deleting product from the list. There will be
+        options for you to select the warranty period if you are not sure of the exact date of the warranty expiry date.</string>
+    <string name="introduction_of_the_app">Introduction of the App:</string>
+    <string name="try_it_yourself">try it yourself!</string>
+    <string name="more_info">More Info</string>
+    <string name="product_list">Your Product List</string>
+    <string name="add">NEW</string>
+    <string name="edit">EDIT</string>
+    <string name="remove">REMOVE</string>
+    <string name="search">Search</string>
+    <string-array name="spnOpt">
+        <item>Add New Product</item>
+        <item>Modify</item>
+        <item>Remove</item>
+    </string-array>
+
+    <string-array name="spnFilter">
+        <item>1 Month</item>
+        <item>3 Months</item>
+        <item>6 Months</item>
+    </string-array>
+</resources>
